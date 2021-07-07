@@ -1,0 +1,14 @@
+{
+  "users":[
+    {
+      "id" : 1,
+      "firstName": "Krzysztof",
+      "lastName" : "Czaplejewicz",
+      "email": "zadaniedynsol@gmail.com",
+      "phone": "500500500",
+      "birthday": "01.01.1990",
+      "about": "some info about user",
+      "avatar": "undefined"
+    }
+  ]
+}
